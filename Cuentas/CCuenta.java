@@ -7,7 +7,7 @@ public class CCuenta {
     private double saldo;
     private double tipoInterés;
 
-    public CCuenta()
+    public CCuenta() //Este comantario es para guardar otra versión.
     {
     }
 
