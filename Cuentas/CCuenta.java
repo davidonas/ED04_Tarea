@@ -76,7 +76,7 @@ public class CCuenta {
 
     /**
      * Asigna interes
-     * @param tipoInterés
+     * @param tipoInteres
      */
     public void setTipoInteres(double tipoInteres) {
         this.tipoInteres = tipoInteres;
