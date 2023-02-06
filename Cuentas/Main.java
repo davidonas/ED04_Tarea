@@ -1,5 +1,13 @@
 package Cuentas;
+/**
+ * @author David Orrillo Navas
+ */
 public class Main {
+    /**
+     * 
+     * @param args
+     * 
+     */
 
     public static void main(String[] args) {
         CCuenta cuenta1;
@@ -10,6 +18,12 @@ public class Main {
         operativa_cuenta(cuenta1, saldoActual, 0);
     }
 
+    /**
+     * Contiene la lógica de la aplicación y llama a las funciones correspondientes
+     * @param cuenta1
+     * @param saldoActual
+     * @param cantidad
+     */
     private static void operativa_cuenta(CCuenta cuenta1, double saldoActual, float cantidad) {
         System.out.println("El saldo actual es"+ saldoActual );
 
