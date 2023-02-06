@@ -1,6 +1,7 @@
 package Cuentas;
 /**
  * Clase para objetos tipo cuentas.
+ * @author David Orrillo Navas
  */
 public class CCuenta {
 
